@@ -1,0 +1,7 @@
+---
+title: "About Me"
+---
+
+- **Name:**Aimi
+- **Position:**Student
+- **Affiliation:** Faculty of Accountancy, UiTM
